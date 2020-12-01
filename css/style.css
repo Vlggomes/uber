@@ -1,0 +1,14 @@
+body {
+    background-color: lightgreen;
+    margin: 100px;
+    padding: 50px;
+    border: 10px blue solid;
+}
+
+h1, h2 {
+    background-color: yellow;
+    color: blue;
+}
+ol {
+    color: red;
+}
